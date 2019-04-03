@@ -2,6 +2,10 @@
   box-sizing: border-box;
 }
 
+h1 {
+  color: purple;
+}
+
 html, body {
   background-color: #f0f0f0;
 }
